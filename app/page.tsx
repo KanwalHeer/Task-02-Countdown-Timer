@@ -3,6 +3,7 @@ export default function Psge() {
   return (
     <div>
       <Card/>
+    
     </div>
   )
 }
