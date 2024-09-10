@@ -1,10 +1,10 @@
 
-  import React from 'react'
+  import Countdown from "./counter/counter"
   
   export default function page() {
     return (
       <div>
-        <h1>hello</h1>
+        <Countdown/>
       </div>
     )
   }
